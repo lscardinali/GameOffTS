@@ -1,0 +1,7 @@
+{
+  "name": "GameOff",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
